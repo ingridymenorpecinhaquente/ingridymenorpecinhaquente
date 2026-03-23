@@ -1,5 +1,3 @@
-## oi eu sou a Ingridy
-<!--
-**ingridymenorpecinhaquente/ingridymenorpecinhaquente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## oi eu sou a Ingridy menor pecinha quente
+## Estou no 2° ano do Ensino Médio cursando Desenvolvimento de Sistemas
 
-Estou no 2° ano do Ensino Médio cursando Desenvolvimento de Sistemas
